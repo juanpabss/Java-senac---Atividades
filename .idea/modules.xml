@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Juan JAVA/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/AtividadePratica01/AtividadePratica01.iml" filepath="$PROJECT_DIR$/Juan JAVA/AtividadePratica01/AtividadePratica01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/Avaliacao01/Avaliacao01.iml" filepath="$PROJECT_DIR$/Juan JAVA/Avaliacao01/Avaliacao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/Avaliacao2/Avaliacao2.iml" filepath="$PROJECT_DIR$/Juan JAVA/Avaliacao2/Avaliacao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/Desafio01/Desafio01.iml" filepath="$PROJECT_DIR$/Juan JAVA/Desafio01/Desafio01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/DiasDaSemana/DiasDaSemana.iml" filepath="$PROJECT_DIR$/Juan JAVA/DiasDaSemana/DiasDaSemana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/DistribuicaoDeNotas/DistribuicaoDeNotas.iml" filepath="$PROJECT_DIR$/Juan JAVA/DistribuicaoDeNotas/DistribuicaoDeNotas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/DividaJuros/DividaJuros.iml" filepath="$PROJECT_DIR$/Juan JAVA/DividaJuros/DividaJuros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/DoWhile/DoWhile.iml" filepath="$PROJECT_DIR$/Juan JAVA/DoWhile/DoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/Exercicio2.2/Exercicio2.2.iml" filepath="$PROJECT_DIR$/Juan JAVA/Exercicio2.2/Exercicio2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/Exercicio2.3/Exercicio2.3.iml" filepath="$PROJECT_DIR$/Juan JAVA/Exercicio2.3/Exercicio2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/Exercicio4.2/Exercicio4.2.iml" filepath="$PROJECT_DIR$/Juan JAVA/Exercicio4.2/Exercicio4.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/ExerciciosSorteioDoLivro/ExerciciosSorteioDoLivro.iml" filepath="$PROJECT_DIR$/Juan JAVA/ExerciciosSorteioDoLivro/ExerciciosSorteioDoLivro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java senac - Atividades.iml" filepath="$PROJECT_DIR$/.idea/Java senac - Atividades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/Juan JAVA.iml" filepath="$PROJECT_DIR$/Juan JAVA/Juan JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/MatrizesAula01/MatrizesAula01.iml" filepath="$PROJECT_DIR$/Juan JAVA/MatrizesAula01/MatrizesAula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/POOWhatssap/POOWhatssap.iml" filepath="$PROJECT_DIR$/Juan JAVA/POOWhatssap/POOWhatssap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/POOaula02/POOaula02.iml" filepath="$PROJECT_DIR$/Juan JAVA/POOaula02/POOaula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/POOaula1/POOaula1.iml" filepath="$PROJECT_DIR$/Juan JAVA/POOaula1/POOaula1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/POOaulaQuestao02/POOaulaQuestao02.iml" filepath="$PROJECT_DIR$/Juan JAVA/POOaulaQuestao02/POOaulaQuestao02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/ProjetoCadastroEmGrupo/ProjetoCadastroEmGrupo.iml" filepath="$PROJECT_DIR$/Juan JAVA/ProjetoCadastroEmGrupo/ProjetoCadastroEmGrupo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/Prova_01_POO/Prova_01_POO.iml" filepath="$PROJECT_DIR$/Juan JAVA/Prova_01_POO/Prova_01_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/WhileTeste/WhileTeste.iml" filepath="$PROJECT_DIR$/Juan JAVA/WhileTeste/WhileTeste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/calculadoraDeComissao/calculadoraDeComissao.iml" filepath="$PROJECT_DIR$/Juan JAVA/calculadoraDeComissao/calculadoraDeComissao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/fatorialArray/fatorialArray.iml" filepath="$PROJECT_DIR$/Juan JAVA/fatorialArray/fatorialArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/fatorialArrey/fatorialArrey.iml" filepath="$PROJECT_DIR$/Juan JAVA/fatorialArrey/fatorialArrey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/forEach/forEach.iml" filepath="$PROJECT_DIR$/Juan JAVA/forEach/forEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/metodosAula/metodosAula.iml" filepath="$PROJECT_DIR$/Juan JAVA/metodosAula/metodosAula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/operadoreslogicos/operadoreslogicos.iml" filepath="$PROJECT_DIR$/Juan JAVA/operadoreslogicos/operadoreslogicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Juan JAVA/valorProdutosLimperza/valorProdutosLimperza.iml" filepath="$PROJECT_DIR$/Juan JAVA/valorProdutosLimperza/valorProdutosLimperza.iml" />
+    </modules>
+  </component>
+</project>
